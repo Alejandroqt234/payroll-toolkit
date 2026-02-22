@@ -67,3 +67,5 @@ for (const employee of employees) {
   const payroll = processPayroll(employee);
   console.log(payroll);
 }
+
+// CC5 payroll functions added
